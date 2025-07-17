@@ -1,3 +1,14 @@
+Name: Ayush Kushwaha
+
+Company: CODTECH IT SOLUTIONS
+
+Intern ID: CT06DG335
+
+Domain: Python Programming
+
+Duration: 6 weeks
+
+Task3:
 
 # 🤖 AI Chatbot with NLP
 
